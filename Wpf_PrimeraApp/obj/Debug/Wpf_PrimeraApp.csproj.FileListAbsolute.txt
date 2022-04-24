@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\bin\Debug\Wpf_PrimeraApp.exe.config
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\bin\Debug\Wpf_PrimeraApp.exe
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\bin\Debug\Wpf_PrimeraApp.pdb
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\Wpf_PrimeraApp.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\Wpf_PrimeraApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\MainWindow.g.cs
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\App.g.cs
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\Wpf_PrimeraApp_MarkupCompile.cache
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\Wpf_PrimeraApp_MarkupCompile.lref
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\MainWindow.baml
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\Wpf_PrimeraApp.g.resources
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\Wpf_PrimeraApp.Properties.Resources.resources
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\Wpf_PrimeraApp.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\Wpf_PrimeraApp.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\Wpf_PrimeraApp.exe
+C:\Users\dell\source\repos\Wpf_PrimeraApp\Wpf_PrimeraApp\obj\Debug\Wpf_PrimeraApp.pdb
